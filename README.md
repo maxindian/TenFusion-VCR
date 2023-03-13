@@ -1,2 +1,4 @@
 # TenFusion-VCR
-This repositiry can be used to predict the test result on VCR(Visual Commensense Reasoning) task. 
+The source is mainly to research the Vision Commonsense Reasoning. 
+##The First program is Probabilistic Diffusion Model.
+
